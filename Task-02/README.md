@@ -1,4 +1,4 @@
-EXAMPLE POSTFOLIO WEBSITE
+EXAMPLE PORTFOLIO WEBSITE
 
 
 ![Screenshot 2024-06-23 155106](https://github.com/Aditya-rawat-bit/CBTC/assets/172890872/5a93b483-805b-4ae8-a65f-77e0268b6b61)
